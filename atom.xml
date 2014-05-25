@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-05-26T01:55:11+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://leohome.github.io/leohome/atom.xml" rel="self"/>
+  <link href="http://leohome.github.io/leohome/"/>
+  <updated>2014-05-26T02:08:58+08:00</updated>
+  <id>http://leohome.github.io/leohome/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Hi]]></title>
+    <link href="http://leohome.github.io/leohome/blog/2014/05/26/hi/"/>
+    <updated>2014-05-26T02:08:41+08:00</updated>
+    <id>http://leohome.github.io/leohome/blog/2014/05/26/hi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[My First Octopress Blog]]></title>
-    <link href="http://yoursite.com/blog/2014/05/26/my-first-octopress-blog/"/>
+    <link href="http://leohome.github.io/leohome/blog/2014/05/26/my-first-octopress-blog/"/>
     <updated>2014-05-26T01:54:39+08:00</updated>
-    <id>http://yoursite.com/blog/2014/05/26/my-first-octopress-blog</id>
+    <id>http://leohome.github.io/leohome/blog/2014/05/26/my-first-octopress-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

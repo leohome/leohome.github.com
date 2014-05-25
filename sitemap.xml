@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2014/05/26/my-first-octopress-blog/</loc>
+        <loc>http://leohome.github.io/leohome/blog/2014/05/26/my-first-octopress-blog/</loc>
         <lastmod>2014-05-26T01:54:39+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2014-05-26T01:54:39+08:00</lastmod>
+        <loc>http://leohome.github.io/leohome/blog/2014/05/26/hi/</loc>
+        <lastmod>2014-05-26T02:08:41+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2014-05-26T01:54:39+08:00</lastmod>
+        <loc>http://leohome.github.io/leohome/blog/archives/</loc>
+        <lastmod>2014-05-26T02:08:41+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://leohome.github.io/leohome/</loc>
+        <lastmod>2014-05-26T02:08:41+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://leohome.github.io/leohome/robots.txt</loc>
         <lastmod>2014-05-26T01:52:39+08:00</lastmod>
     </url>
 </urlset>
